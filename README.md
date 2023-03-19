@@ -13,7 +13,7 @@ Switch to the projects directory and
 $ node index.js
 ```
 
-## game-play instructions
+## Game-Play Instructions
 
 The game automatically assigns names and characters ('X' and 'O') to the two players.
 On prompt provide the position to place your next character in the range of 1-9. Positions are counted from left to right, top to bottom:
