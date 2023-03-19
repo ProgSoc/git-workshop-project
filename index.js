@@ -57,7 +57,7 @@ ${this.displayItem(this.ticTacToe[6])} | ${this.displayItem(this.ticTacToe[7])} 
   endGame(){
     this.rl.close();
     this.gameEnded = true;
-    console.log("Moves history --- ")
+    console.log("Moves history ---- ")
     console.log(this.moveRegister)
     process.exit();
     return false;
