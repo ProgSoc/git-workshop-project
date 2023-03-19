@@ -1,6 +1,6 @@
 # ProgSoc Git Workshop Demo
 
-This is a demo project for the ProgSoc Git Workshop.
+This is a demo project for the ProgSoc Git Workshop 2023.
 
 The code used here was copied from this blog post: https://jamesinkala.com/blog/creating-a-tic-tac-toe-nodejs-game/
 
